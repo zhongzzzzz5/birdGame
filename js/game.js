@@ -234,6 +234,6 @@ window.onload = function(){
                 birdEle.style.background = "url('images/bangImg/e"+i+".gif') -2px -1px no-repeat";
                 birdEle.style.backgroundSize = "80% auto";
             }
-        },150);
+        },50);
     }
 }
